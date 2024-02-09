@@ -1,13 +1,9 @@
 
-# CodeAlpha Machine Learning Intership Tasks
+# CodeAlpha Machine Learning Internship Tasks
 
 ## TASK 1
 ### Credit Scoring Model
- Develop a credit scoring model to predict the
- creditworthiness of individuals based on historical
- financial data. Utilize classification algorithms and
- assess the model's accuracy.
- #### Overview
+#### Overview
 
 This project contains a machine learning model for credit scoring. The model predicts the likelihood of default on a credit application based on various features provided by the applicant.
 
