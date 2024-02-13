@@ -28,6 +28,7 @@ This project contains a machine learning model for predicting handwritten charac
 #### Dataset
 
 The model was trained on a dataset containing images of handwritten characters. The dataset consists of grayscale images of individual characters, each labeled with the corresponding character.
+
 [Dataset download link](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 
 #### Model Development
