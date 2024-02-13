@@ -18,3 +18,22 @@ The machine learning model was developed using Python programming language and p
 #### Evaluation Metrics
 
 The performance of the model was evaluated using standard evaluation metrics for classification tasks including accuracy, precision, recall, and F1-score.
+
+## TASK 2
+### Handwritten Character Recognition Model
+#### Overview
+
+This project contains a machine learning model for predicting handwritten characters. The model takes an image of a handwritten character as input and predicts the corresponding character.
+
+#### Dataset
+
+The model was trained on a dataset containing images of handwritten characters. The dataset consists of grayscale images of individual characters, each labeled with the corresponding character.
+[Dataset download link](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
+
+#### Model Development
+
+The machine learning model was developed using Python programming language and popular deep learning libraries such as TensorFlow and Keras. The model architecture is based on a convolutional neural network (CNN), a type of neural network commonly used for image classification tasks.
+
+#### Evaluation Metrics
+
+The performance of the model was evaluated using standard evaluation metrics for classification tasks including accuracy, precision, recall, and F1-score. Additionally, the confusion matrix was used to assess the model's performance on individual classes.
