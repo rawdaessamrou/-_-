@@ -38,3 +38,21 @@ The machine learning model was developed using Python programming language and p
 #### Evaluation Metrics
 
 The performance of the model was evaluated using standard evaluation metrics for classification tasks including accuracy, precision, recall, and F1-score. Additionally, the confusion matrix was used to assess the model's performance on individual classes.
+
+## TASK 3
+### Disease Prediction Model
+#### Overview
+
+This machine learning model is designed for disease prediction using medical data. It analyzes various features extracted from patient data to predict the likelihood of a certain disease. The model leverages advanced machine learning algorithms to provide accurate predictions, which can aid healthcare professionals in early detection and proactive treatment.
+
+#### Dataset
+
+The medical dataset used for training and evaluation comprises patient records, including demographics, medical history, vital signs, and laboratory test results. The dataset is obtained from reputable sources and undergoes preprocessing to ensure data quality and consistency.
+
+#### Model Development
+
+The disease prediction model is developed using state-of-the-art machine learning techniques. It employs a combination of feature engineering, model selection, and hyperparameter tuning to build an effective predictive model. The architecture may vary depending on the specific disease being predicted, with considerations for scalability, interpretability, and performance.
+
+#### Evaluation Metrics
+
+The performance of the disease prediction model is evaluated using standard evaluation metrics such as accuracy, precision, recall, and F1-score. These metrics provide insights into the model's predictive capabilities, including its ability to correctly identify positive and negative cases, minimize false positives and false negatives, and achieve overall predictive accuracy.
